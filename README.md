@@ -1,2 +1,2 @@
 # demoProject
-private test proj
+private test proj on MVN
