@@ -1,2 +1,2 @@
 # demoProject
-primary test proj
+private test proj
